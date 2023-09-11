@@ -1,9 +1,9 @@
 body {
-  background-color: rgb(23, 65, 51);
+  background-color:#0d566e;
 }
 
 .container {
-  background-color: rgb(39, 133, 133);
+  background-color: #083b4c;
   padding: 40px 270px;
 }
 
@@ -21,16 +21,21 @@ h1 {
   align-items: center;
   margin: 10px;
   border: 1px solid black;
+  font-weight: 600;
 }
 
 .bg-green {
-  background-color: green;
+  background-color: #0cd6a1;
 }
 
 .bg-yellow {
-  background-color: goldenrod;
+  background-color: #ffd166;
 }
 
 .bg-red {
   background-color: rgb(146, 25, 25);
+}
+
+.bg-blu {
+  background-color: #1389b2;
 }
