@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(23, 65, 51);
+}
+
+.container {
+  background-color: rgb(39, 133, 133);
+  height: 100vh;
+  padding: 40px 100px;
+}
+
+h1 {
+  color: white;
+  font-size: 4rem;
+  font-weight: 800;
+}
+
+.box {
+  height: 80px;
+  width: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  border: 1px solid black;
+}
